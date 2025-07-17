@@ -23,7 +23,8 @@ It is designed for potential employers, collaborators, and anyone interested in 
 
 ## 📸 Preview
 
-![Portfolio Screenshot](Portfolio/public/profile-img.jpg)
+![image](https://github.com/user-attachments/assets/39bd6dca-46f5-42c2-b3c0-5bc9b7f23224)
+
 
 ## 📝 Getting Started
 
