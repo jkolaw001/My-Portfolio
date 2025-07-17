@@ -318,7 +318,7 @@ function App() {
                 </svg>
               </a>
               <a
-                href="https://twitter.com/your-twitter-username"
+                href="https://x.com/JoelKolawole4"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="Twitter"
